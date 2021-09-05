@@ -8,4 +8,6 @@ enter coordinates like... 1 2 where the first digit selects the line and the sec
 #End:
 possible outcomes: X wins, O Wins, Draw
 
+<img src="https://github.com/FOswald86/JetbrainAcademy_TicTacToe/blob/main/TicTacToe.gif" width="800" height="500" />  
 
+https://hyperskill.org/projects/48  
